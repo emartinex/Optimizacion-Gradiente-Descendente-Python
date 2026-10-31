@@ -85,7 +85,6 @@ python -m pip install -r requirements.txt
 jupyter notebook
 ```
 
-**Nota:** cambia `TU_USUARIO` y `TU_REPOSITORIO` por los valores reales cuando publiques. Si descargaste el ZIP en lugar de clonar, descomprímelo y entra a su carpeta antes del paso 2.
 
 ## Ejemplo de referencia
 
@@ -164,7 +163,3 @@ Gradiente descendente es un algoritmo fundamental de optimización empleado para
 - **Las funciones no convexas pueden presentar mínimos locales.** El resultado depende del punto inicial.
 - **No se admiten restricciones** de igualdad/desigualdad ni derivadas no definidas en el punto de evaluación como un caso general.
 - El intérprete de expresiones permite únicamente un subconjunto de operaciones matemáticas; no está diseñado como servicio público para expresiones arbitrarias de terceros.
-
-## Créditos y licencia
-
-Material diseñado con fines educativos. **El autor o propietario del repositorio debe definir y añadir una licencia** antes de permitir expresamente su reutilización bajo condiciones específicas. No se adjunta `LICENSE` para evitar atribuir una autorización de uso que todavía no ha sido elegida.
